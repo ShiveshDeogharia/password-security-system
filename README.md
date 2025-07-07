@@ -20,7 +20,7 @@ This system uses:
 The circuit is simulated using Tinkercad.
 
 🔗 **Tinkercad Circuit Simulation Link:**  
-[Click here to open in Tinkercad](PASTE-YOUR-LINK-HERE)
+[Click here to open in Tinkercad](https://www.tinkercad.com/things/8bvBAx2SiIH-copy-of-password-based-lock-system-de-lab-project-using-latch/editel?returnTo=%2Fthings%2F8bvBAx2SiIH-copy-of-password-based-lock-system-de-lab-project-using-latch&sharecode=rd9e2Z0RfeDTZ75WOyRxqMq3_o6MqG8pC3K_cTDl_po)
 
 ## 🖼️ Media
 ### 📸 Circuit Diagram
